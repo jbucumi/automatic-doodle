@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Arial">
+		<normal><![CDATA[fonts/Arial/arial.ttf]]></normal>
+		<bold><![CDATA[fonts/Arial/arialbd.ttf]]></bold>
+		<italic><![CDATA[fonts/Arial/ariali.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Arial/arialbi.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+	<fontFamily name="Calibri">
+		<normal><![CDATA[fonts/Calibri/calibri.ttf]]></normal>
+		<bold><![CDATA[fonts/Calibri/calibrib.ttf]]></bold>
+		<italic><![CDATA[fonts/Calibri/calibrii.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Calibri/calibriz.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+	<fontFamily name="Comic">
+		<normal><![CDATA[fonts/Comic/comic.ttf]]></normal>
+		<bold><![CDATA[fonts/Comic/comicbd.ttf]]></bold>
+		<italic><![CDATA[fonts/Comic/comici.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Comic/comicz.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+	<fontFamily name="Consola">
+		<normal><![CDATA[fonts/Consola/consola.ttf]]></normal>
+		<bold><![CDATA[fonts/Consola/consolab.ttf]]></bold>
+		<italic><![CDATA[fonts/Consola/consolai.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Consola/consolaz.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+	<fontFamily name="Tahoma">
+		<normal><![CDATA[fonts/Tahoma/tahoma.ttf]]></normal>
+		<bold><![CDATA[fonts/Tahoma/tahomabd.ttf]]></bold>
+		<!-- <italic><![CDATA[fonts/Arial/ArialItalicCustom.ttf]]></italic> <boldItalic><![CDATA[fonts/Arial/ArialBoldItalicCustom.ttf]]></boldItalic> -->
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+	<fontFamily name="Times">
+		<normal><![CDATA[fonts/Times/times.ttf]]></normal>
+		<bold><![CDATA[fonts/Times/timesbd.ttf]]></bold>
+		<italic><![CDATA[fonts/Times/timesi.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Times/timesbi.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+	<fontFamily name="Trebuchet">
+		<normal><![CDATA[fonts/Trebuchet/trebuc.ttf]]></normal>
+		<bold><![CDATA[fonts/Trebuchet/trebucbd.ttf]]></bold>
+		<italic><![CDATA[fonts/Trebuchet/trebucit.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Trebuchet/trebucbi.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+	<fontFamily name="Verdana">
+		<normal><![CDATA[fonts/Verdana/verdana.ttf]]></normal>
+		<bold><![CDATA[fonts/Verdana/verdanab.ttf]]></bold>
+		<italic><![CDATA[fonts/Verdana/verdanai.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/Verdana/verdanaz.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts />
+	</fontFamily>
+</fontFamilies>
